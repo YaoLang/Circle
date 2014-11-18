@@ -1,5 +1,5 @@
 package shape;
-
+/* 第二次提交 20:40:13*/
 
 public class Circle {
 	private Point locat = null;
